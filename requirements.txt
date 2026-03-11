@@ -1,0 +1,9 @@
+﻿# Euler Squad Core Dependencies
+numpy>=1.23.0
+scipy>=1.9.0
+matplotlib>=3.5.0
+sympy>=1.11.0
+pandas>=1.5.0
+
+# Optional: For better interactive notebooks in Colab
+ipython
